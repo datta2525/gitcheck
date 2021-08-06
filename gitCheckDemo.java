@@ -3,7 +3,7 @@ public static void main(String args[])
 {
 
 
-system.out.print("hihihihih ")
+system.out.print("hihihihih ");
 }
 
 
